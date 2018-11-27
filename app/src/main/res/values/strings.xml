@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FitnessHealthy</string>
+    <string name="txtSplash">Loading ...</string>
+    <string name="title_activity_principal">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnSenha">Password</string>
+    <string name="edtLogin">Login</string>
+    <string name="edtSenha">Password</string>
+    <string name="btnSobre">About APP - FitnessHealthy</string>
+    <string name="btnEx1">Start Exercice</string>
+    <string name="btnEx2">Start Exercice2</string>
+    <string name="btnEx3">Start Exercice3</string>
+    <string name="btnCancelar">Cancel</string>
+    <string name="btnProx">Next</string>
+    <string name="btnProx2">Next</string>
+    <string name="btnIni">Back to menu</string>
+    <string name="btnSair">Exit</string>
+</resources>

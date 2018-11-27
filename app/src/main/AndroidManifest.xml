@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.edu.unoesc.pdm.offtrail">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/fh"
+        android:label="FitnessHealthy"
+        android:roundIcon="@mipmap/fh"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ui.SplashActivity_">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.LoginActivity_" />
+        <activity android:name=".ui.PrincipalActivity_" />
+        <activity android:name=".ui.SobreActivity_" />
+        <activity android:name=".ui.Ex1Activity_" />
+        <activity android:name=".ui.Ex2Activity_" />
+        <activity android:name=".ui.Ex3Activity_" />
+        <activity android:name=".ui.Ex11Activity_" />
+        <activity android:name=".ui.Ex21Activity_" />
+        <activity android:name=".ui.Ex31Activity_" />
+        <activity android:name=".ui.Ex12Activity_" />
+        <activity android:name=".ui.Ex13Activity_" />
+        <activity android:name=".ui.Ex22Activity_" />
+        <activity android:name=".ui.Ex23Activity_" />
+        <activity android:name=".ui.Ex32Activity_" />
+        <activity android:name=".ui.Ex33Activity_"></activity>
+    </application>
+
+</manifest>
